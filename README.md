@@ -13,7 +13,7 @@ functionality for uploading files with firebase.
   
   
 ## Prerequisites
-Hopefully you should have already et up angular and firebase on your 
+Hopefully you should have already set up angular and firebase on your 
 application before seeking out this functionality. Just in case you have
 not, please 
 

@@ -1,12 +1,7 @@
 {
   "name": "ng-firebase-file-upload",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "Apache 2.0",
-  "ngPackage": {
-    "lib": {
-      "cssUrl": "inline"
-    }
-  },
   "keywords": [
     "ng",
     "angular",
