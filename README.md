@@ -57,4 +57,10 @@ For example in a template driven form with an `avatar` attribute, we can use it 
 
 `<ng-firebase-file-upload [(ngModel)]="avatar"></ng-firebase-file-upload>`
 
+
+```
+NB: 
+The component comes with default styling. 
+And you can style this component in your application however you like.
  
+```
